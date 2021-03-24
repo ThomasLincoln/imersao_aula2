@@ -3,7 +3,7 @@ var resposta = "";
 var img = document.getElementById("imagem");
 
 function capturaResposta() {
-  captura = document.getElementById("resposta").value;
+  captura = document.getElementById("inputzada").value;
   resposta = captura;
 }
 

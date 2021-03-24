@@ -25,4 +25,7 @@ body {
     color: white;
     background-color: rgba(240, 0, 0, 0.8);
 }
-  
+#inputzada{
+    margin-bottom: 20px;
+    margin-top:20px;
+}

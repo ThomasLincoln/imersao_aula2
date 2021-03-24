@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://images3.alphacoders.com/677/thumb-1920-677583.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Arial;
+}
+  
+.container {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 500px;
+    height: 400px;
+}
+
+.imagem {
+    filter: brightness(0);
+    margin-right: 300px;
+}
+
+.envio {
+    padding: 20px;
+    color: white;
+    background-color: rgba(240, 0, 0, 0.8);
+}
+  
